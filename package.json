@@ -16,6 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "author":{"name": "Kyaw Myo Hlaing"},
   "eslintConfig": {
     "extends": "react-app"
   },
