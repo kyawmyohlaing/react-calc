@@ -51,7 +51,7 @@ class App extends Component {
     ]
     return(
       <div className="App">
-        {this.state.previous > 0 ? 
+        {this.state.previous.length > 0 ? 
             <div className="floaty-last">
               {this.state.previous[this.state.previous.length - 1 ]}
             </div>
